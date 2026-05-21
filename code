@@ -1,4 +1,4 @@
-  #include <Adafruit_Fingerprint.h>
+#include <Adafruit_Fingerprint.h>
 #include <SoftwareSerial.h>
 #include <LiquidCrystal.h>
 #include <Keypad.h>
