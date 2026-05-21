@@ -1,0 +1,29 @@
+Biometric Electronic Voting System with Real-Time Authentication
+
+Overview
+This project is a secure electronic voting system using biometric fingerprint authentication and keypad verification to prevent unauthorized voting.
+
+Features
+- Fingerprint-based voter authentication
+- Keypad input system
+- Real-time vote verification
+- Secure voting mechanism
+- LCD display integration
+
+Components Used
+- Arduino UNO
+- Fingerprint Sensor
+- 4x4 Keypad
+- LCD Display
+- Buzzer
+- Push Buttons
+
+Technologies Used
+- Embedded C
+- Arduino IDE
+- Embedded Systems
+
+Applications
+- College Elections
+- Secure Digital Voting
+- Smart Authentication Systems
